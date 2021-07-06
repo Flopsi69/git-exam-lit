@@ -1,0 +1,11 @@
+# Changelog
+All notable changes to this project will be documented in this file.
+
+## [0.1.1] - 2021-07-06
+### Added
+- changelog to control version
+- new page with echo test info
+
+## [0.0.1] - 2021-07-06
+### Change
+- Fix critical error by adding phpinfo
